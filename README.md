@@ -10,7 +10,7 @@ Experiments conducted on both synthetically corrupted datasets and real-world da
 
 # Pipeline
 
-![framework](Figure.png)
+![framework](figure.png)
 
 # Installation
 ```
